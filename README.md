@@ -1,5 +1,7 @@
 # Modbus Master Simulation (Tauri)
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 A cross-platform [Modbus](https://en.wikipedia.org/wiki/Modbus) master simulator rebuilt with [Tauri 2](https://v2.tauri.app/) and React. This project is inspired by the original [GitHubDragonFly/ModbusMaster](https://github.com/GitHubDragonFly/ModbusMaster) Windows/Mono application, but rewritten as a modern, lightweight desktop app using Rust for the backend and a web-based UI.
 
 ## Features
