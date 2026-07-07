@@ -68,3 +68,7 @@ npm run tauri build
 ## 致谢
 
 原项目：[GitHubDragonFly/ModbusMaster](https://github.com/GitHubDragonFly/ModbusMaster)
+
+## 相关项目
+
+- [Modbus Slave Simulation (Tauri)](https://github.com/hopekayo/modbus-slave-simulation-tauri) — 对应配套的 Modbus 从站模拟器。
