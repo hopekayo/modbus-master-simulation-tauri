@@ -68,3 +68,7 @@ This project is licensed under the [MIT License](./LICENSE), matching the licens
 ## Acknowledgements
 
 Original project: [GitHubDragonFly/ModbusMaster](https://github.com/GitHubDragonFly/ModbusMaster)
+
+## Related Project
+
+- [Modbus Slave Simulation (Tauri)](https://github.com/hopekayo/modbus-slave-simulation-tauri) — the counterpart Modbus slave simulator.
