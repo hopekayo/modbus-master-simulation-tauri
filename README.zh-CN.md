@@ -4,6 +4,10 @@
 
 使用 [Tauri 2](https://v2.tauri.app/) 和 React 重新实现的跨平台 [Modbus](https://en.wikipedia.org/wiki/Modbus) 主站模拟器。本项目参考原 [GitHubDragonFly/ModbusMaster](https://github.com/GitHubDragonFly/ModbusMaster) Windows/Mono 应用程序，后端使用 Rust，前端使用现代化的 Web UI 重新编写。
 
+## 项目截图
+
+![Modbus Master Simulation 主界面](./docs/screenshots/main-window.png)
+
 ## 功能特性
 
 - **协议支持**：TCP、UDP、RTU（ASCII 变体及 RTU-over-TCP/UDP 可在后续版本中补充）。

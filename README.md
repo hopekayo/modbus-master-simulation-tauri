@@ -4,6 +4,10 @@
 
 A cross-platform [Modbus](https://en.wikipedia.org/wiki/Modbus) master simulator rebuilt with [Tauri 2](https://v2.tauri.app/) and React. This project is inspired by the original [GitHubDragonFly/ModbusMaster](https://github.com/GitHubDragonFly/ModbusMaster) Windows/Mono application, but rewritten as a modern, lightweight desktop app using Rust for the backend and a web-based UI.
 
+## Screenshots
+
+![Modbus Master Simulation main window](./docs/screenshots/main-window.png)
+
 ## Features
 
 - **Protocols**: TCP, UDP, and RTU (ASCII variants and RTU-over-TCP/UDP can be added in future releases).
